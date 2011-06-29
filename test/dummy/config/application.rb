@@ -3,7 +3,7 @@ require File.expand_path('../boot', __FILE__)
 require "rails/all"
 
 Bundler.require(:default, Rails.env)
-require "hms"
+require "paperclip_helpers"
 
 module Dummy
   class Application < Rails::Application

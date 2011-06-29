@@ -1,4 +1,4 @@
-module Hms::Controllers::Attachments
+module PaperclipHelpers::Attachments
   extend ActiveSupport::Concern
   
   private

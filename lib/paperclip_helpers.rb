@@ -1,4 +1,5 @@
 require 'active_support/dependencies'
+require 'paperclip'
 
 ActiveSupport.on_load(:action_controller) do
   include PaperclipHelpers::Attachments
