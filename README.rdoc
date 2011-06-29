@@ -1,0 +1,3 @@
+= HMS Shared Library
+
+This project rocks and uses MIT-LICENSE.

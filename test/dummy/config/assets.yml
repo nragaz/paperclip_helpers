@@ -1,0 +1,11 @@
+<%= Hms::Engine.assets_config %>
+
+javascripts:
+<%= Hms::Engine.javascripts_config %>
+  base:
+    - public/javascripts/application.js
+
+stylesheets:
+<%= Hms::Engine.stylesheets_config %>
+  base:
+    - public/javascripts/application.css
