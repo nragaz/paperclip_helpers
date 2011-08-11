@@ -4,6 +4,8 @@ Gem::Specification.new do |s|
   s.name = "paperclip_helpers"
   s.summary = "Initializers and helper methods for using Paperclip."
   s.description = "Initializers and helper methods for using Paperclip."
+  s.authors     = ["Nick Ragaz"]
+  s.email       = ["nick.ragaz@gmail.com"]
   
   s.files = Dir["{app,lib,config,public}/**/*"] +
             ["MIT-LICENSE", "Rakefile", "Gemfile", "README.rdoc"]
