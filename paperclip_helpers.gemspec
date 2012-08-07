@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.files = Dir["{app,lib,config,public}/**/*"] +
             ["MIT-LICENSE", "Rakefile", "Gemfile", "README.rdoc"]
 
-  s.version = "0.2"
+  s.version = "0.2.1"
 
   s.add_dependency 'rails', '~> 3'
   s.add_dependency 'paperclip'
